@@ -1,0 +1,11 @@
+li{
+    z-index: 100;
+    list-style: none;
+     display: list-item;
+     
+}
+li a{
+    z-index: 100;
+    display: flex;
+     font-size: 20px;
+}
